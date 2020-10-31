@@ -14,7 +14,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [세무회계 원우 홈페이지](https://theleetax.com) | 🟩 Up | [.yml](https://github.com/theleetax/uptime/commits/master/history/.yml) | <img alt="Response time graph" src="./graphs/.png" height="20"> 1913ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheleetax%2Fuptime%2Fmaster%2Fapi%2F%2Fuptime.json)
+| [Homepage](https://theleetax.com) | 🟩 Up | [homepage.yml](https://github.com/theleetax/uptime/commits/master/history/homepage.yml) | <img alt="Response time graph" src="./graphs/homepage.png" height="20"> 1993ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheleetax%2Fuptime%2Fmaster%2Fapi%2Fhomepage%2Fuptime.json)
 <!--end: status pages-->
 
 [**Visit our status website →**](https://demo.upptime.js.org)

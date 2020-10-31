@@ -22,5 +22,9 @@ status-website:
     - title: GitHub
       href: https://github.com/theleetax/uptime
 
+notifications:
+  - type: slack
+    channel: web-sentry
+    
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

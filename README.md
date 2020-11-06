@@ -11,9 +11,11 @@ This repository contains the open-source uptime monitor and status page for [Upp
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/upptime/upptime/issues) as incident reports, [Actions](https://github.com/upptime/upptime/actions) as uptime monitors, and [Pages](https://demo.upptime.js.org) for the status page.
 
 <!--start: status pages-->
-| URL | Status | History | Response Time | Uptime |
-| --- | ------ | ------- | ------------- | ------ |
-| [Homepage](https://theleetax.com) | 🟩 Up | [homepage.yml](https://github.com/theleetax/uptime/commits/master/history/homepage.yml) | <img alt="Response time graph" src="./graphs/homepage.png" height="20"> 1624ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheleetax%2Fuptime%2Fmaster%2Fapi%2Fhomepage%2Fuptime.json)
+
+| URL                               | Status | History                                                                                 | Response Time                                                                  | Uptime                                                                                                                                                      |
+| --------------------------------- | ------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Homepage](https://theleetax.com) | 🟩 Up  | [homepage.yml](https://github.com/theleetax/uptime/commits/master/history/homepage.yml) | <img alt="Response time graph" src="./graphs/homepage.png" height="20"> 1651ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheleetax%2Fuptime%2Fmaster%2Fapi%2Fhomepage%2Fuptime.json) |
+
 <!--end: status pages-->
 
 [**Visit our status website →**](https://demo.upptime.js.org)

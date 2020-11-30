@@ -26,6 +26,8 @@ jobs:
         uses: actions/setup-node@v2.1.1
         with:
           node-version: 14
+        env: 
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
       - name: Update template
         run: npx update-template https://github.com/upptime/upptime
       - name: Commit new data

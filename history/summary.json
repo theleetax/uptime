@@ -4,7 +4,15 @@
     "url": "https://theleetax.com",
     "slug": "homepage",
     "status": "up",
-    "uptime": "67.77%",
-    "time": 1633
+    "uptime": "68.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.57%",
+    "uptimeMonth": "66.47%",
+    "uptimeYear": "68.75%",
+    "time": 1714,
+    "timeDay": 2132,
+    "timeWeek": 2176,
+    "timeMonth": 1686,
+    "timeYear": 1714
   }
 ]

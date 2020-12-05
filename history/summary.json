@@ -3,16 +3,16 @@
     "name": "Homepage",
     "url": "https://theleetax.com",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "70.68%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.47%",
-    "uptimeYear": "70.68%",
-    "time": 1734,
-    "timeDay": 2214,
-    "timeWeek": 2111,
-    "timeMonth": 1686,
-    "timeYear": 1734
+    "status": "up",
+    "uptime": "70.65%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "66.43%",
+    "uptimeYear": "70.65%",
+    "time": 1743,
+    "timeDay": 2201,
+    "timeWeek": 2120,
+    "timeMonth": 1701,
+    "timeYear": 1743
   }
 ]

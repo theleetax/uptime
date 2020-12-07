@@ -2,17 +2,34 @@
   {
     "name": "Homepage",
     "url": "https://theleetax.com",
+    "icon": "https://favicons.githubusercontent.com/theleetax.com",
     "slug": "homepage",
     "status": "up",
-    "uptime": "71.34%",
-    "uptimeDay": "98.75%",
+    "uptime": "72.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "66.43%",
-    "uptimeYear": "71.34%",
-    "time": 1751,
-    "timeDay": 2160,
-    "timeWeek": 2176,
-    "timeMonth": 1702,
-    "timeYear": 1751
+    "uptimeYear": "72.12%",
+    "time": 1759,
+    "timeDay": 2207,
+    "timeWeek": 2188,
+    "timeMonth": 1710,
+    "timeYear": 1759,
+    "dailyMinutesDown": {
+      "2020-12-05": 18,
+      "2020-11-26": 767,
+      "2020-11-25": 1440,
+      "2020-11-24": 1440,
+      "2020-11-23": 1440,
+      "2020-11-22": 1440,
+      "2020-11-21": 1440,
+      "2020-11-20": 1440,
+      "2020-11-19": 1433,
+      "2020-11-18": 1440,
+      "2020-11-17": 1440,
+      "2020-11-16": 969,
+      "2020-11-01": 7,
+      "2020-10-31": 19
+    }
   }
 ]
